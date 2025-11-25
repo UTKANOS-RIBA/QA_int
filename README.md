@@ -14,4 +14,4 @@ pytest -v
 
 ## Files
 TESTCASES.md — тест-кейсы  
-tests/test_api.py — автотесты  
+test_api.py — автотесты  
